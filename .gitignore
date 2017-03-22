@@ -1,0 +1,7 @@
+notebooks/linear_regression.ipynb
+notebooks/nearest_neighbor.ipynb
+notebooks/MNIST_data/t10k-images-idx3-ubyte.gz
+notebooks/MNIST_data/t10k-labels-idx1-ubyte.gz
+notebooks/MNIST_data/train-images-idx3-ubyte.gz
+notebooks/MNIST_data/train-labels-idx1-ubyte.gz
+linear_regression.ipynb
